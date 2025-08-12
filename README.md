@@ -62,7 +62,7 @@ The notebook (news_clustering.ipynb) contains:
 
     - pandas, numpy, scikit-learn
 
-    - matplotlib, seaborn
+    - matplotlib, seaborn, scikit-learn
 
     - nltk
 
@@ -70,8 +70,4 @@ The notebook (news_clustering.ipynb) contains:
 
     - Implement DBSCAN/HDBSCAN clustering
 
-    - Add word embeddings (Word2Vec, BERT)
-
-    - Develop web interface for exploration
-
-    - Incorporate topic modeling
+    - Detect Anomalies in Credit Card Transactions
